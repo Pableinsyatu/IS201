@@ -1,0 +1,45 @@
+/* Pablo Maza 4/13/2022 */
+.header{ 
+    height:100px;
+    background-color: rgb(152, 141, 127);
+    line-height: 100px; 
+}
+.mainBody{
+    position: static;
+    background-color:rgb(109, 110, 141)
+    ;
+}
+.footer{
+    height: 50px;
+    background-color: rgb(201, 178, 150);
+    color: black;
+    line-height: 50px;}
+
+.common{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;}
+
+img{
+    width:25%;    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+
+
+.size{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;}
+
+h1{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;}
+.right{
+    text-align: right;
+    text-decoration: none;}
